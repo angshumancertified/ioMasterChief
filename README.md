@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ioMasterChief
-- 👀 I’m interested in front and backend developing.
-- 🌱 I’m currently learning Javascript, JQuery and C.
+- 👀 I’m interested in Front and Back-End development
+- 🌱 I’m currently learning Back-End Dev Ops.
 - 💞️ I’m looking to collaborate on web based projects.
 - 📫 How to reach me : IG - @rocketmamba 
 
