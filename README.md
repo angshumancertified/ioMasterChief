@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ioMasterChief
-- 👀 I’m interested in Front and Back-End development
-- 🌱 I’m currently learning Back-End Dev Ops.
-- 💞️ I’m looking to collaborate on web based projects.
+- 👋 Hi, I’m @angshumancertifed!
+- 👀 I’m interested in Machine Learning and Hardware Engineering.
+- 🌱 I’m currently learning Neural Nets and Deep Learning Systems.
+- 💞️ I’m looking to collaborate on ML based projects.
 - 📫 How to reach me : E-mail!
 
 <!---
